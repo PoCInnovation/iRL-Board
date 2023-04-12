@@ -1,8 +1,10 @@
-> If you see this section, you've just created a repository using [PoC Innovation's Open-Source project template](https://github.com/PoCInnovation/open-source-project-template). Check the [getting started guide](./.github/getting-started.md).
+# iRL Board
 
-# [PROJECT'S NAME]
+A Reinforcement Learning-powered Board Game Experience - Bringing the challenge of AI to the real world,
+iRL Board is an innovative board game that combines cutting-edge reinforcement learning algorithms with a tangible, physical game board.
+Play against an intelligent AI opponent in real life, and enjoy a dynamic, engaging gaming experience like no other.
 
-[Project's description]
+Get ready to test your wits against the future of board games!
 
 ## How does it work?
 
@@ -31,11 +33,11 @@ If you're interested in how the project is organized at a higher level, please c
 ## Our PoC team ❤️
 
 Developers
-| [<img src="https://github.com/MrZalTy.png?size=85" width=85><br><sub>[Developer's name]</sub>](https://github.com/MrZalTy) | [<img src="https://github.com/MrZalTy.png?size=85" width=85><br><sub>[Developer's name]</sub>](https://github.com/MrZalTy) | [<img src="https://github.com/MrZalTy.png?size=85" width=85><br><sub>[Developer's name]</sub>](https://github.com/MrZalTy)
-| :---: | :---: | :---: |
+| [<img src="https://github.com/Kanda09.png?size=85" width=85><br><sub>Tiphaine Bertone</sub>](https://github.com/Kanda09) | [<img src="https://github.com/acokini.png?size=85" width=85><br><sub>Adrien Cokini</sub>](https://github.com/acokini) | [<img src="https://github.com/RahulCHANDER25.png?size=85" width=85><br><sub>Rahul Chander</sub>](https://github.com/RahulCHANDER25) | [<img src="https://github.com/ManuelR-T.png?size=85" width=85><br><sub>Manuel Tomé</sub>](https://github.com/ManuelR-T)
+| :---: | :---: | :---: | :---: |
 
 Manager
-| [<img src="https://github.com/adrienfort.png?size=85" width=85><br><sub>[Manager's name]</sub>](https://github.com/adrienfort)
+| [<img src="https://github.com/agherasie.png?size=85" width=85><br><sub>Alexandru GHERASIE</sub>](https://github.com/agherasie)
 | :---: |
 
 <h2 align=center>
