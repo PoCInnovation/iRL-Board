@@ -33,7 +33,7 @@ If you're interested in how the project is organized at a higher level, please c
 ## Our PoC team ❤️
 
 Developers
-| [<img src="https://github.com/Kanda09.png?size=85" width=85><br><sub>Tiphaine Bertone</sub>](https://github.com/Kanda09) | [<img src="https://github.com/acokini.png?size=85" width=85><br><sub>Adrien Cokini</sub>](https://github.com/acokini) | [<img src="https://github.com/RahulCHANDER25.png?size=85" width=85><br><sub>Rahul Chander</sub>](https://github.com/RahulCHANDER25) | [<img src="https://github.com/ManuelR-T.png?size=85" width=85><br><sub>Manuel Tomé</sub>](https://github.com/ManuelR-T)
+| [<img src="https://github.com/Kanda09.png?size=85" width=85><br><sub>Tiphaine Bertone</sub>](https://github.com/Kanda09) | [<img src="https://github.com/AdrienCkn.png?size=85" width=85><br><sub>Adrien Cokini</sub>](https://github.com/AdrienCkn) | [<img src="https://github.com/RahulCHANDER25.png?size=85" width=85><br><sub>Rahul Chander</sub>](https://github.com/RahulCHANDER25) | [<img src="https://github.com/ManuelR-T.png?size=85" width=85><br><sub>Manuel Tomé</sub>](https://github.com/ManuelR-T)
 | :---: | :---: | :---: | :---: |
 
 Manager
